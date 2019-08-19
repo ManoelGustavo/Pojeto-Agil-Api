@@ -12423,11 +12423,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\65976\\Documents\\GitHub\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj",
+      "projectUniqueName": "C:\\Users\\65976\\Documents\\GitHub\\Agil\\Pojeto-Agil-Api\\ProAgil.API.csproj",
       "projectName": "ProAgil.API",
-      "projectPath": "c:\\Users\\65976\\Documents\\GitHub\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj",
+      "projectPath": "C:\\Users\\65976\\Documents\\GitHub\\Agil\\Pojeto-Agil-Api\\ProAgil.API.csproj",
       "packagesPath": "C:\\Users\\65976\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\65976\\Documents\\GitHub\\DotNetCore\\ProAgil.API\\obj\\",
+      "outputPath": "C:\\Users\\65976\\Documents\\GitHub\\Agil\\Pojeto-Agil-Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

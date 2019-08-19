@@ -23,7 +23,8 @@ namespace ProAgil.API.Controllers
                     Local = "Belo Horizonte",
                     Lote ="1º Lote",
                     QtdPessoas = 200,
-                    DataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy")
+                    DataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy"),
+                    Imagem = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi0qeKB1Y_kAhUEK7kGHcq-CQ4QjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fdocs.microsoft.com%252Fpt-br%252Fdotnet%252F%26psig%3DAOvVaw3CBMAUwlKEtPZScT3p7xA5%26ust%3D1566329168970222&psig=AOvVaw3CBMAUwlKEtPZScT3p7xA5&ust=1566329168970222"
 
                 },
                 new Evento(){
@@ -32,8 +33,8 @@ namespace ProAgil.API.Controllers
                     Local = "São Paulo",
                     Lote ="3º Lote",
                     QtdPessoas = 350,
-                    DataEvento = DateTime.Now.AddDays(3).ToString("dd/MM/yyyy")
-
+                    DataEvento = DateTime.Now.AddDays(3).ToString("dd/MM/yyyy"),
+                    Imagem = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjA8Mav1Y_kAhWbGLkGHeYbCdEQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fpt.wikipedia.org%252Fwiki%252FAngular_(framework)%26psig%3DAOvVaw1sFAdC9EY98WCwYs0CwgxT%26ust%3D1566329266324494&psig=AOvVaw1sFAdC9EY98WCwYs0CwgxT&ust=1566329266324494"
                 }
             };
         }
@@ -49,7 +50,8 @@ namespace ProAgil.API.Controllers
                     Local = "Belo Horizonte",
                     Lote ="1º Lote",
                     QtdPessoas = 200,
-                    DataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy")
+                    DataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy"),
+                    Imagem = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi0qeKB1Y_kAhUEK7kGHcq-CQ4QjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fdocs.microsoft.com%252Fpt-br%252Fdotnet%252F%26psig%3DAOvVaw3CBMAUwlKEtPZScT3p7xA5%26ust%3D1566329168970222&psig=AOvVaw3CBMAUwlKEtPZScT3p7xA5&ust=1566329168970222"
 
                 },
                 new Evento(){
@@ -58,7 +60,8 @@ namespace ProAgil.API.Controllers
                     Local = "São Paulo",
                     Lote ="3º Lote",
                     QtdPessoas = 350,
-                    DataEvento = DateTime.Now.AddDays(3).ToString("dd/MM/yyyy")
+                    DataEvento = DateTime.Now.AddDays(3).ToString("dd/MM/yyyy"),
+                    Imagem = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjA8Mav1Y_kAhWbGLkGHeYbCdEQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fpt.wikipedia.org%252Fwiki%252FAngular_(framework)%26psig%3DAOvVaw1sFAdC9EY98WCwYs0CwgxT%26ust%3D1566329266324494&psig=AOvVaw1sFAdC9EY98WCwYs0CwgxT&ust=1566329266324494"
 
                 }
             }.FirstOrDefault(x => x.EventoId == id);

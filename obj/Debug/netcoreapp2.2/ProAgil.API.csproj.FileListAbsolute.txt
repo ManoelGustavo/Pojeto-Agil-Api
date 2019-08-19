@@ -12,3 +12,17 @@ C:\Users\65976\Documents\GitHub\DotNetCore\ProAgil.API\obj\Debug\netcoreapp2.2\P
 C:\Users\65976\Documents\GitHub\DotNetCore\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorTargetAssemblyInfo.cache
 C:\Users\65976\Documents\GitHub\DotNetCore\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.dll
 C:\Users\65976\Documents\GitHub\DotNetCore\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.pdb
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\bin\Debug\netcoreapp2.2\ProAgil.API.deps.json
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\bin\Debug\netcoreapp2.2\ProAgil.API.runtimeconfig.json
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\bin\Debug\netcoreapp2.2\ProAgil.API.runtimeconfig.dev.json
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\bin\Debug\netcoreapp2.2\ProAgil.API.dll
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\bin\Debug\netcoreapp2.2\ProAgil.API.pdb
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.csprojAssemblyReference.cache
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CoreCompileInputs.cache
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cache
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cs
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfoInputs.cache
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfo.cs
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.RazorTargetAssemblyInfo.cache
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.dll
+C:\Users\65976\Documents\GitHub\Agil\Pojeto-Agil-Api\obj\Debug\netcoreapp2.2\ProAgil.API.pdb
