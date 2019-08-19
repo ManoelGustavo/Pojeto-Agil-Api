@@ -8,7 +8,7 @@ using ProAgil.API.Data;
 namespace ProAgil.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190819193645_init")]
+    [Migration("20190819194726_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
